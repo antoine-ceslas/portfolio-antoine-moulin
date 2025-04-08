@@ -15,7 +15,7 @@ export function Awards() {
   return (
     <Panel id="awards" className="scroll-mt-[4.75rem]">
       <PanelHeader>
-        <PanelTitle>Awards</PanelTitle>
+        <PanelTitle>Récompenses</PanelTitle>
       </PanelHeader>
 
       <AccordionPrimitive.Root type="single" collapsible>

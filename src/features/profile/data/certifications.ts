@@ -2,16 +2,16 @@ import { Certification } from "../types/certifications";
 
 export const CERTIFICATIONS: Certification[] = [
   {
-    title: "Vietnamese Standardized Test of English Proficiency (CEFR B1)",
-    issuer: "USSH-VNUHCM",
-    issueDate: "2024-12-17",
+    title: "BUT Métiers du Multimédia et de l'Internet",
+    issuer: "Université Gustave Eiffel",
+    issueDate: "2025-07-17",
     credentialID: "QH58202305187",
     credentialURL:
       "https://vbcc.hcmussh.edu.vn/?type=11&certificateType=7&no=QH58202305187&fullName=Nguy%E1%BB%85n+Ch%C3%A1nh+%C4%90%E1%BA%A1i&dob=2000-08-14",
   },
   {
-    title: "Engaging in Persuasive and Credible Communication",
-    issuer: "National University of Singapore",
+    title: "Baccaurélier Général mention 'Assez Bien'",
+    issuer: "Lycée François 1er de Fontainebleau",
     issueDate: "2022-09-13",
     credentialID: "C6DHB9A5XQHV",
     credentialURL: "https://coursera.org/verify/C6DHB9A5XQHV",

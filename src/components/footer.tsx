@@ -15,11 +15,11 @@ export function Footer() {
         Built by{" "}
         <a
           className="link"
-          href="https://linkedin.com/in/ncdai"
+          href="www.linkedin.com/in/antoine-luberda-a4019b266"
           target="_blank"
           rel="noopener noreferrer"
         >
-          ncdai
+          Antoine
         </a>
         . The source code is available on{" "}
         <a

@@ -46,9 +46,7 @@ export function Header() {
             <h1 className="flex items-center pl-4 font-heading text-3xl font-medium">
               {USER.displayName}
               &nbsp;
-              <SimpleTooltip
-                content={`Official website of ${USER.displayName}`}
-              >
+              <SimpleTooltip content={`Site officiel de ${USER.displayName}`}>
                 <VerifiedIcon className="size-[0.6em] translate-y-px text-info-foreground" />
               </SimpleTooltip>
             </h1>

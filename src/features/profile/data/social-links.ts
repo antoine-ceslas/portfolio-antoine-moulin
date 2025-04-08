@@ -4,8 +4,8 @@ export const SOCIAL_LINKS: SocialLink[] = [
   {
     icon: "/images/link-icons/linkedin.webp",
     title: "LinkedIn",
-    description: "ncdai",
-    href: "https://linkedin.com/in/ncdai",
+    description: "antoine-luberda",
+    href: "www.linkedin.com/in/antoine-luberda-a4019b266",
   },
   {
     icon: "/images/link-icons/github.webp",

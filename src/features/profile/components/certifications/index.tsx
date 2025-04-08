@@ -8,7 +8,7 @@ export function Certifications() {
   return (
     <Panel id="certs" className="scroll-mt-[4.75rem]">
       <PanelHeader>
-        <PanelTitle>Certs</PanelTitle>
+        <PanelTitle>Formations</PanelTitle>
       </PanelHeader>
 
       <CollapsibleList

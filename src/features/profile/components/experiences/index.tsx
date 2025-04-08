@@ -13,7 +13,7 @@ export function Experiences() {
   return (
     <Panel id="experience" className="scroll-mt-[4.75rem]">
       <PanelHeader>
-        <PanelTitle>Experience</PanelTitle>
+        <PanelTitle>Expériences</PanelTitle>
       </PanelHeader>
 
       <AccordionPrimitive.Root

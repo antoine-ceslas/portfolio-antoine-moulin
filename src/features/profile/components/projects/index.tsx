@@ -10,7 +10,7 @@ export function Projects() {
   return (
     <Panel id="projects" className="scroll-mt-[4.75rem]">
       <PanelHeader>
-        <PanelTitle>Projects</PanelTitle>
+        <PanelTitle>Projets</PanelTitle>
       </PanelHeader>
 
       <AccordionPrimitive.Root

@@ -8,7 +8,7 @@ export function About() {
   return (
     <Panel id="about" className="scroll-mt-[4.75rem]">
       <PanelHeader>
-        <PanelTitle>About</PanelTitle>
+        <PanelTitle>A propos</PanelTitle>
       </PanelHeader>
 
       <PanelContent>
